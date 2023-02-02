@@ -1,12 +1,3 @@
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Enumerable</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -17,6 +8,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -99,6 +91,13 @@ Example command:
 - Twitter: [@Luk, A man](https://twitter.com/lukmanabdulka18)
 - LinkedIn: [Lukman Abdulkarim](https://www.linkedin.com/in/lukmanbaba/)
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Add modules for this project**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
