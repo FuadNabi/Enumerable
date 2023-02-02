@@ -1,12 +1,3 @@
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Chief's Masterpieces</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -17,6 +8,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -25,9 +17,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse Code <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-> Decode morse code - This is a project with ruby programs to decode morse code messages.
+> In this project we learn how to use a module inside your class. For this we create a class MyList and a module MyEnumerable..
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -93,6 +85,19 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/FuadNebiyev2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fuad-nabiyev/)
 
+👤 **Lukman Abdulkarim**
+
+- GitHub: [@Lukman](https://github.com/lukman155)
+- Twitter: [@Luk, A man](https://twitter.com/lukmanabdulka18)
+- LinkedIn: [Lukman Abdulkarim](https://www.linkedin.com/in/lukmanbaba/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Add modules for this project**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -100,7 +105,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/FuadNabi/decode-morse/issues/).
+Feel free to check the [issues page](https://github.com/FuadNabi/Enumerable/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,6 +140,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/FuadNabi/decode-morse/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/FuadNabi/Enumerable/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
